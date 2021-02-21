@@ -159,13 +159,12 @@ sup {
 }
 
 a {
-  color: #17a2b8;
+  color: #01386a;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
   color: #007bff;
-  text-decoration: underline;
 }
 
 a:not([href]):not([class]) {
@@ -9776,12 +9775,8 @@ button.bg-dark:focus {
   color: #fff !important;
 }
 
-.text-primary-deutsch {
-  color: #ffcc00 !important;
-}
-
-.text-primary-italy {
-  color: #009246 !important;
+.text-primary {
+  color: #007bff !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
